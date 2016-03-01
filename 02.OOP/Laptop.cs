@@ -47,7 +47,6 @@ namespace _02.OOP
             {
                 this.model = value;
             }
-
         }
         public string Manufacturer
         {
@@ -60,7 +59,6 @@ namespace _02.OOP
             {
                 this.manufacturer = value;
             }
-
         }
         public string Processor
         {
@@ -73,7 +71,6 @@ namespace _02.OOP
             {
                 this.processor = value;
             }
-
         }
         public string Ram
         {
@@ -103,7 +100,6 @@ namespace _02.OOP
             {
                 this.graphicsCard = value;
             }
-
         }
         public string Hdd
         {
@@ -120,7 +116,6 @@ namespace _02.OOP
                 }
                 this.hdd = value;
             }
-
         }
         public string Screen
         {
@@ -133,7 +128,6 @@ namespace _02.OOP
             {
                 this.screen = value;
             }
-
         }
 
         [Required]

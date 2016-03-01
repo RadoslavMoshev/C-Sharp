@@ -27,7 +27,6 @@ namespace _02.OOP
             {
                 batteryType = value;
             }
-
         }
         public double BatteryLife
         {
@@ -40,7 +39,6 @@ namespace _02.OOP
             {
                 this.batteryLife = value;
             }
-
         }
 
         public override string ToString()
